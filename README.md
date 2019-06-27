@@ -1,3 +1,5 @@
+This repo is contributed by [@damonbarry](https://github.com/damonbarry)
+
 # xunit-nunit-clash
 Demonstrates [nunit/nunit3-vs-adapter#629](https://github.com/nunit/nunit3-vs-adapter/issues/629)
 
